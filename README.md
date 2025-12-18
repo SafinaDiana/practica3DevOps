@@ -32,6 +32,33 @@
 <img width="466" height="268" alt="image" src="https://github.com/user-attachments/assets/5232cd68-6444-454e-acee-66a7a6de2ea5" />
 
 ## Задание 4
+## Задание 5
+Создала файл task5_container_status.sh
+
+Написала код
+<img width="939" height="666" alt="image" src="https://github.com/user-attachments/assets/238aca74-41b6-483a-b977-17313b914171" />
+
+Запустила
+<img width="665" height="111" alt="image" src="https://github.com/user-attachments/assets/6c6c7a3f-4bdb-4640-ba2c-ce9afe4ff291" />
+<img width="783" height="99" alt="image" src="https://github.com/user-attachments/assets/f24aef6c-24d8-422f-afb5-5d883990f85f" />
+
+## Задание 6
+Создала файл task6_download.sh
+
+Написала код 
+<img width="1092" height="414" alt="image" src="https://github.com/user-attachments/assets/cbf34dbd-eab4-4be3-b4c6-05985bd69ef5" />
+
+Запустила
+<img width="579" height="118" alt="image" src="https://github.com/user-attachments/assets/755b431b-2867-4891-909b-1ac6c7bb4c12" />
+
+## Задание 7
+Создала файл /task7_cleanup_containers.sh
+
+Написала скрипт
+<img width="1186" height="873" alt="image" src="https://github.com/user-attachments/assets/5344dac5-ea40-463c-bb41-4a8190d1013c" />
+
+Запустила
+<img width="726" height="241" alt="image" src="https://github.com/user-attachments/assets/2c606d68-3e46-409c-a11b-c40c7b93b71a" />
 
 
 
