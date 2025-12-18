@@ -36,6 +36,7 @@
 Запустила
 
 <img width="514" height="94" alt="image" src="https://github.com/user-attachments/assets/6d705280-a64e-4a9c-84b5-9f2c79aa78c3" />
+
 <img width="466" height="268" alt="image" src="https://github.com/user-attachments/assets/5232cd68-6444-454e-acee-66a7a6de2ea5" />
 
 ## Задание 4
