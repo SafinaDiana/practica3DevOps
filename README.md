@@ -32,6 +32,16 @@
 <img width="466" height="268" alt="image" src="https://github.com/user-attachments/assets/5232cd68-6444-454e-acee-66a7a6de2ea5" />
 
 ## Задание 4
+Создала отдельную папку. Инициализировала локальный репозиторий. Создала текстовый файл для коммита. Создала коммит.
+<img width="721" height="406" alt="image" src="https://github.com/user-attachments/assets/451f182c-d89c-4e36-801d-07490d350622" />
+
+Написала скрипт 
+<img width="908" height="428" alt="image" src="https://github.com/user-attachments/assets/8ebe0c10-0b12-48e6-a810-a87f55001e13" />
+
+Запустила 
+<img width="724" height="409" alt="image" src="https://github.com/user-attachments/assets/61046648-b716-4d0f-b309-610c56b10c66" />
+
+
 ## Задание 5
 Создала файл task5_container_status.sh
 
